@@ -1,10 +1,10 @@
-# Olá! Eu sou Richard Quadros 👋
+Olá! Eu sou Richard Quadros
 Desenvolvedor Fullstack em Formação | Estudante IFRS - Sistemas para Internet.
 
----
-### 🛠️ Foco Técnico e Expansão Atual
+Base Técnica e Expansão de Conhecimento:
 
-* **Back-End (Java):** Sólida base em POO. Atualmente, **expandindo** para APIs RESTful com **Spring Boot**.
-* **Back-End (Web):** Aprofundando em **PHP** e arquitetura MVC para desenvolvimento web dinâmico.
-* **Front-end:** Reatividade com Vue.js, componentização e Design de UI/UX (Figma).
-* **Dados:** Gerenciamento SQL (DDL/DML) e consultas avançadas. Objetivo: integração Fullstack completa.
+Fundamentos Web: Experiência com HTML semântico, CSS moderno e JavaScript (ES6+).
+Front-end: Reatividade em Vue.js, componentização e noções de Design de UI/UX (Figma).
+Back-end: Base sólida em Programação Orientada a Objetos (Java) e conhecimentos em PHP (arquitetura MVC).
+Expansão Atual: Foco no desenvolvimento de APIs RESTful utilizando Spring Boot (Java).
+Dados: Experiência em SQL, incluindo comandos DDL/DML, consultas avançadas e integração Fullstack.
